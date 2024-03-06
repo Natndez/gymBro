@@ -9,4 +9,7 @@ I want this project to be the foundation of either one of two things.
 - GymBro. GymBro is an app I've been thinking about building (Details to come). The idea would be similar to SaaS but instead it would be an actual mobile application.
 - Use Pose Estimation to track form (start with simple exercise like curls)
 
+#### Dataset Link:
+https://www.kaggle.com/datasets/niharika41298/gym-exercise-data
+
 More to come!
