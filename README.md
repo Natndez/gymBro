@@ -2,6 +2,7 @@
 
 #### Look into webscraping here:
 -https://youtu.be/XVv6mJpFOb0?si=-Yw0Vw3k-leaXFzU
+-See other tutorials if need be
 
 #### Description:
 This project is a Data Science/Machine Learning approach to help a user determine what exercise they should do next.
